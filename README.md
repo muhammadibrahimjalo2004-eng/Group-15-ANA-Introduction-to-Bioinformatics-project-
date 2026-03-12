@@ -9,8 +9,8 @@ This project demonstrates a collaborative computational workflow. Each group mem
 | Full Name | GitHub Username | Slack Username | Area of Interest |
 | :--- | :--- | :--- | :--- |
 | **Muhammad ibrahim Jalo (Lead)** | @muhammadibrahimjalo2004 | @Jalo | Genomics |
-| **Member 2** | @username2 | @slack_handle2 | Proteomics |
-| **Member 3** | @username3 | @slack_handle3 | Transcriptomics |
+| **Ramon Sodiq Okiki** | @sodiqramonokoki | @Sodiq| Proteomics |
+| **Dorathy Chirstopher** | @Dorathy | @Dorathy Christopher189 | Transcriptomics |
 | **Member 4** | @username4 | @slack_handle4 | Structural Biology |
 | **Member 5** | @username5 | @slack_handle5 | Systems Biology |
 
